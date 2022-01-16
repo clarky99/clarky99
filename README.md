@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @clarky99 aka Cory.
-- 👀 I’m interested in ... collaborating for open source projects or local companies with IT requests apps, databases, data wrangling.
-- 🌱 I’m currently learning ... nodejs back-end, front-end react, Java & C#
-- 💞️ I’m looking to collaborate on ... open source gaming plug-in/addons or utility tools (e.g. RuneLite)
-- 📫 How to reach me ... coryclarksearching@gmail.com
+Hi, I’m @clarky99, otherwise known as Cory.
+🏙️ Charlotte, NC
+📫 coryclarksearching@gmail.com
+🌱 Java/Reactjs
 
-Let's collaborate!
+Contact me by email for any inquiry - I am interested in contributing to open source Java/React projects.
